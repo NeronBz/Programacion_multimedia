@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ArrayCiudades</string>
+    <string-array name="ciudades">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Valencia</item>
+        <item>Sevilla</item>
+    </string-array>
+
+    <string-array name="habitantes">
+        <item>3.100.000</item>
+        <item>1.600.000</item>
+        <item>786.000</item>
+        <item>697.000</item>
+    </string-array>
+</resources>
