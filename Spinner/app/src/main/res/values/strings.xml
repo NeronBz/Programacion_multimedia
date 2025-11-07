@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner - Raúl</string>
+
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Naranja</item>
+    </string-array>
+</resources>
