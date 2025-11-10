@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner - Ciudades</string>
+    <string-array name="ciudades">
+        <item>Castellon</item>
+        <item>Gijon</item>
+        <item>Huesca</item>
+        <item>Peniscola</item>
+        <item>Teruel</item>
+    </string-array>
+</resources>
